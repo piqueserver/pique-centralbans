@@ -19,6 +19,7 @@ Requirements: python3.5+, virtualenv or pyvenv, pip
 You can now do the following:
 
 `GET /` – Get the list of bans
+
 `POST /publish?token=[your token]` – submit a ban. Submit the ban data as JSON-encoded body.
 
 You can submit any data you want, but the following are required fields:
