@@ -24,5 +24,5 @@ You can now do the following:
 
 You can submit any data you want, but the following are required fields:
 ```
-{"ip": "0.0.0.0", "server": "localhost", "expires": 0, "timestamp": 0}
+{"ip": "192.168.4.10", "server": "piqueserver_1", "expires": 1496790837, "timestamp": 1496790133}
 ```
